@@ -1,5 +1,5 @@
-# UCLA-CS-Course-Notes
-All my notes from the CS classes I've taken at UCLA
+# UCLA-Course-Notes
+All my notes from the classes I've taken at UCLA
 
 * **CS 111 - Operating Systems**
   - Textbook: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
