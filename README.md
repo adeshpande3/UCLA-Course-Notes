@@ -8,4 +8,6 @@ All my notes from the classes I've taken at UCLA
   - Textbook: [Computer Networking: A Top-Down Approach](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf)
 * **CS 180 - Algorithms** 
   - Textbook: [Algorithm Design](http://184.168.171.185/BOOKS/DVD%201/Algorithm%20Design%20-%20Jon%20Kleinberg,%20Eva%20Tardos.pdf)
-* **LS 7A - Cell and Molecular Biology** 
+* **LS 7A - Cell and Molecular Biology**
+* **Ling 1 - Introduction to Study of Language** 
+  - Textbook: [Introduction to Language](https://www.docdroid.net/mN0yqoM/fromkin-introduction-to-language-2014.pdf)
