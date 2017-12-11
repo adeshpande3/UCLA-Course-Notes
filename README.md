@@ -11,3 +11,5 @@ All my notes from the classes I've taken at UCLA
 * **LS 7A - Cell and Molecular Biology**
 * **Ling 1 - Introduction to Study of Language** 
   - Textbook: [Introduction to Language](https://www.docdroid.net/mN0yqoM/fromkin-introduction-to-language-2014.pdf)
+* **CS 143 - Database Systems** 
+  - Textbook: [Database System Concepts](https://kakeboksen.td.org.uit.no/Database%20System%20Concepts%206th%20edition.pdf)
