@@ -13,3 +13,5 @@ All my notes from the classes I've taken at UCLA
   - Textbook: [Introduction to Language](https://www.docdroid.net/mN0yqoM/fromkin-introduction-to-language-2014.pdf)
 * **CS 143 - Database Systems** 
   - Textbook: [Database System Concepts](https://kakeboksen.td.org.uit.no/Database%20System%20Concepts%206th%20edition.pdf)
+* **CS 161 - Fundamentals of Artificial Intelligence** 
+  - Textbook: [Artificial Intelligence: A Modern Approach](https://drive.google.com/open?id=0B1ZCM1FvMOfieEJHdW9oZ3ZKdzg)
