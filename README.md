@@ -16,7 +16,12 @@ All my notes from the classes I've taken at UCLA
   - Textbook: [Artificial Intelligence: A Modern Approach](https://drive.google.com/open?id=0B1ZCM1FvMOfieEJHdW9oZ3ZKdzg)
 * **CS 180 - Algorithms** 
   - Textbook: [Algorithm Design](http://184.168.171.185/BOOKS/DVD%201/Algorithm%20Design%20-%20Jon%20Kleinberg,%20Eva%20Tardos.pdf)
+* **CS 181 - Introduction to Formal Languages and Automata Theory** 
+  - Textbook: [Theory of Computation](https://theswissbay.ch/pdf/Book/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf)
+* **Engr 185EW - Engineering Ethics**
+  - Textbook: [Ethics, Technology, and Engineering](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi8zI-wyLXaAhXLxlQKHaj6BhUQFghcMAI&url=https%3A%2F%2Fn0whereruoxi.github.io%2Fimages%2Fpoel.pdf&usg=AOvVaw1EQLcmpCjqh6WKIlGwBDyA)
 * **LS 7A - Cell and Molecular Biology**
 * **LS 7B - Genetics, Evolution, and Ecology**
+* **LS 7C - Physiology and Human Biology**
 * **Ling 1 - Introduction to Study of Language** 
   - Textbook: [Introduction to Language](https://www.docdroid.net/mN0yqoM/fromkin-introduction-to-language-2014.pdf)
