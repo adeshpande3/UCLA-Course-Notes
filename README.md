@@ -20,6 +20,7 @@ All my notes from the classes I've taken at UCLA
   - Textbook: [Theory of Computation](https://theswissbay.ch/pdf/Book/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf)
 * **Engr 185EW - Engineering Ethics**
   - Textbook: [Ethics, Technology, and Engineering](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi8zI-wyLXaAhXLxlQKHaj6BhUQFghcMAI&url=https%3A%2F%2Fn0whereruoxi.github.io%2Fimages%2Fpoel.pdf&usg=AOvVaw1EQLcmpCjqh6WKIlGwBDyA)
+* **Hist 12B - Inequality: History of Neoliberalism**
 * **LS 7A - Cell and Molecular Biology**
 * **LS 7B - Genetics, Evolution, and Ecology**
 * **LS 7C - Physiology and Human Biology**
