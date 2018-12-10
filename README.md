@@ -10,6 +10,8 @@ All my notes from the classes I've taken at UCLA
   - Textbook: [Modern Programming Languages: A Practical Introduction](http://b-ok.org/book/3428612/3bd0fe)
 * **CS 143 - Database Systems** 
   - Textbook: [Database System Concepts](https://kakeboksen.td.org.uit.no/Database%20System%20Concepts%206th%20edition.pdf)
+* **CS 145 - Introduction to Data Mining** 
+  - Textbook: [Data Mining: Concepts and Techniques](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
 * **CS M151B - Computer Systems Architecture** 
   - Textbook: [Computer Organization and Design](http://ac.aua.am/Arm/Public/2017-Spring-Computer-Organization/Textbooks/ComputerOrganizationAndDesign5thEdition2014.pdf)
 * **CS 161 - Fundamentals of Artificial Intelligence** 
