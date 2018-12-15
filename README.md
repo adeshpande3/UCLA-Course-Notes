@@ -28,3 +28,5 @@ All my notes from the classes I've taken at UCLA
 * **LS 7C - Physiology and Human Biology**
 * **Ling 1 - Introduction to Study of Language** 
   - Textbook: [Introduction to Language](https://www.docdroid.net/mN0yqoM/fromkin-introduction-to-language-2014.pdf)
+* **MCDB 60 - Biomedical Ethics**
+* **Neuroscience M101A - Cellular and Systems Neuroscience**
