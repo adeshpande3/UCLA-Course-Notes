@@ -6,8 +6,11 @@ All my notes from the classes I've taken at UCLA
   - Secondary Textbook: [Principles of Computer Design: An Introduction](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)
 * **CS 118 - Computer Networking** 
   - Textbook: [Computer Networking: A Top-Down Approach](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf)
+* **CS 124 - Computational Genetics** 
 * **CS 131 - Programming Languages** 
   - Textbook: [Modern Programming Languages: A Practical Introduction](http://b-ok.org/book/3428612/3bd0fe)
+* **CS 133 - Parallel and Distributed Computing** 
+* **CS 136 - Introduction to Computer Security** 
 * **CS 143 - Database Systems** 
   - Textbook: [Database System Concepts](https://kakeboksen.td.org.uit.no/Database%20System%20Concepts%206th%20edition.pdf)
 * **CS 145 - Introduction to Data Mining** 
@@ -31,3 +34,5 @@ All my notes from the classes I've taken at UCLA
 * **MCDB 60 - Biomedical Ethics**
 * **Neuroscience M101A - Cellular and Systems Neuroscience**
   - Textbook: [Neuroscience](https://www.hse.ru/data/2011/06/22/1215686482/Neuroscience.pdf)
+* **Neuroscience M101B - Molecular and Developmental Neuroscience**
+  - Textbook: Same as M101A
