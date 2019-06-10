@@ -6,7 +6,10 @@ All my notes from the classes I've taken at UCLA
   - Secondary Textbook: [Principles of Computer Design: An Introduction](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)
 * **CS 118 - Computer Networking** 
   - Textbook: [Computer Networking: A Top-Down Approach](http://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/10617_1870_1.pdf)
-* **CS 124 - Computational Genetics** 
+* **CS 124 - Computational Genetics**
+* **CS 130 - Software Engineering**
+  - Textbook: [Code Complete](https://drive.google.com/open?id=0B1ZCM1FvMOfic09QeXlKZVBEV28) 
+  - Secondary Textbook: [Sommerville Software Engineering](https://drive.google.com/open?id=0B1ZCM1FvMOfiZ1pBMHgwNjlEa28)
 * **CS 131 - Programming Languages** 
   - Textbook: [Modern Programming Languages: A Practical Introduction](http://b-ok.org/book/3428612/3bd0fe)
 * **CS 133 - Parallel and Distributed Computing** 
